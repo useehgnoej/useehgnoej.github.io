@@ -5,7 +5,7 @@ title: "About Me"
 
 
 Hi, I'm Heesu Jeong, a software engineering graduate 
-with a B.E. in Computer Science (GPA 4.5/4.5).
+with a B.E. in Computer Science.
 
 I have hands-on experience in NLP-based sentiment analysis, 
 IoT embedded systems, and backend development. 
