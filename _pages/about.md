@@ -11,7 +11,6 @@ I have hands-on experience in NLP-based sentiment analysis,
 IoT embedded systems, and backend development. 
 I am currently seeking graduate research opportunities 
 in [관심 분야 — Natural Language Processing / Human-AI Interaction].
-(https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
 ## Research Interests
 - Natural Language Processing & Sentiment Analysis
@@ -21,3 +20,5 @@ in [관심 분야 — Natural Language Processing / Human-AI Interaction].
 ## Contact
 📧 useehgnoej@gmail.com  
 🐙 github.com/useehgnoej
+
+[📄 Download CV](/files/CV_HeesuJeong.pdf)
