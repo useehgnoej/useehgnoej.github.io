@@ -4,18 +4,20 @@ title: "About Me"
 ---
 
 
-Hi, I'm Heesu Jeong, a software engineering graduate 
+I'm Heesu Jeong, a software engineering graduate 
 with a B.E. in Computer Science.
 
 I have hands-on experience in NLP-based sentiment analysis, 
-IoT embedded systems, and backend development. 
+IoT embedded systems, and practical system development. 
 I am currently seeking graduate research opportunities 
-in [관심 분야 — Natural Language Processing / Human-AI Interaction].
+in [IoT and Embedded Intelligent Systems, Trustworthy AI, Computer Vision, Edge AI
+].
 
 ## Research Interests
-- Natural Language Processing & Sentiment Analysis
-- IoT + Embedded AI Systems  
+- IoT and Embedded Intelligent Systems
+- Trustworthy AI  
 - Human-Centered Computing
+- Edge AI
 
 ## Contact
 📧 useehgnoej@gmail.com  
