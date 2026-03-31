@@ -10,12 +10,12 @@ with a B.E. in Computer Science.
 I have hands-on experience in NLP-based sentiment analysis, 
 IoT embedded systems, and practical system development. 
 I am currently seeking graduate research opportunities 
-in [IoT and Embedded Intelligent Systems, Trustworthy AI, Computer Vision, Edge AI
+in [IoT and Embedded Intelligent Systems, Trustworthy and Applied AI, Computer Vision, Edge AI
 ].
 
 ## Research Interests
 - IoT and Embedded Intelligent Systems
-- Trustworthy AI  
+- Trustworthy and Applied AI  
 - Human-Centered Computing
 - Edge AI
 
