@@ -13,7 +13,7 @@ I am currently seeking graduate research opportunities.
 
 ## Research Interests
 - IoT and Embedded Intelligent Systems
-- Trustworthy and Applied AI  
+- AI Ethics & Safety
 - Human-Centered Computing Human-Computer Interaction
 - Edge AI
 - Real-Time System Software
