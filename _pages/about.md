@@ -12,12 +12,12 @@ IoT embedded systems, and practical system development.
 I am currently seeking graduate research opportunities.
 
 ## Research Interests
+- Vision-Language Model
 - IoT and Embedded Intelligent Systems
 - AI Ethics & Safety
 - Trustworthy and Applied AI
-- Human-Centered Computing Human-Computer Interaction
+- Human-Computer Interaction
 - Edge AI
-- Real-Time System Software
 
 ## Contact
 📧 useehgnoej@gmail.com  
