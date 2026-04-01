@@ -12,7 +12,7 @@ IoT embedded systems, and practical system development.
 I am currently seeking graduate research opportunities.
 
 ## Research Interests
-- Vision-Language Model
+- Multimodal AI
 - IoT and Embedded Intelligent Systems
 - AI Ethics & Safety
 - Trustworthy and Applied AI
